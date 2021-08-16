@@ -1,0 +1,20 @@
+
+
+.btn {
+  background-color: #2f5572;
+  color: #fff;
+  text-decoration: none;
+  padding: 0.7rem 1.2rem;
+  display: inline-block;
+
+}
+
+.btn--orange {
+  background-color: rgb(192, 110, 81);
+}
+
+.btn--large {
+  font-size: 1.25rem;
+  padding: 1.1rem 1.9rem;
+}
+
